@@ -1,0 +1,1 @@
+// Global Companion React app placeholder – real build goes here
